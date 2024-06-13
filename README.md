@@ -55,7 +55,7 @@ The PyPassword Generator creates a random password with a specified number of le
     3
     How many numbers would you like?
     4
-    Generated password: aB1!cDe2#Fg3$H
+    Generated password: 8C4Ps+#Me$r0JQ5
     ```
 
 ## Features
